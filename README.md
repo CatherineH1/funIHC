@@ -5,4 +5,16 @@ Higgins, C., Carey, M. Addressing class imbalance in functional data clustering.
 
 
 ## Overview
-This repository contains the code and data for the simulations and benchmarks described in our paper. The analysis uses a main function, which relies on two helper functions. The repository is structured to facilitate easy reproducibility of results.
+This repository contains the code and data for the simulations and benchmark examples described in our paper. 
+R and MATLAB implementations are provided.
+
+## Options
+As described in our paper, we propose three distinct distance metrics for use with
+funIHC:
+1. funIHC (curves), where the functional form of the curves is directly utilized with
+a measure of functional distance to quantify dissimilarity between them. Set type==0
+2. funIHC (1st derivative): The first-order derivative of the curves is utilized with
+a measure of functional distance to quantify dissimilarity between them. Set type==1
+3. funIHC (coefficients), which involves a dimension reduction via a basis function
+expansion of the original curves followed by computation of distances based on
+the resulting vectors. Set type==2
