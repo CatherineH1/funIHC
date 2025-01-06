@@ -9,8 +9,10 @@ This repository contains R and MATLAB implementations of funIHC.
 
 An example demonstrating how to use both the R and MATLAB versions, along with the data required to reproduce the simulations described in our paper, is provided.
 
+## Data
+The data....
 
-## Options
+## Code options
 As described in our paper, we propose three distinct distance metrics for use with
 funIHC:
 1. funIHC (curves): where the functional form of the curves is directly utilized with
