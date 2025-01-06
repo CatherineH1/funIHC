@@ -6,8 +6,7 @@ Higgins, C., Carey, M. Addressing class imbalance in functional data clustering.
 
 ## Overview
 This repository contains R and MATLAB implementations of funIHC.
-
-In addition the data to reproduce some simulations and benchmark examples as described in our paper is provided. 
+An example demonstrating how to use both the R and MATLAB versions, along with the data required to reproduce the simulations and benchmark examples described in our paper, is provided.
 
 
 ## Options
