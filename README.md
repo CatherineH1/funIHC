@@ -12,9 +12,9 @@ R and MATLAB implementations are provided.
 As described in our paper, we propose three distinct distance metrics for use with
 funIHC:
 1. funIHC (curves), where the functional form of the curves is directly utilized with
-a measure of functional distance to quantify dissimilarity between them. Set type==0
+a measure of functional distance to quantify dissimilarity between them. Set type=0
 2. funIHC (1st derivative): The first-order derivative of the curves is utilized with
-a measure of functional distance to quantify dissimilarity between them. Set type==1
+a measure of functional distance to quantify dissimilarity between them. Set type=1
 3. funIHC (coefficients), which involves a dimension reduction via a basis function
 expansion of the original curves followed by computation of distances based on
-the resulting vectors. Set type==2
+the resulting vectors. Set type=2
