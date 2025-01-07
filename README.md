@@ -10,7 +10,7 @@ This repository contains R and MATLAB implementations of funIHC.
 An example demonstrating how to use both the R and MATLAB versions, along with the data required to reproduce the simulations described in our paper, is provided.
 
 ## Data
-The Data.zip file contains the datasets required to reproduce one iteration of the simulations descirbed in Section 3.1 and 3.2.
+The Data.zip file contains the datasets required to reproduce one iteration of the simulations descirbed in Section 3.1 and 3.2 of our paper.
 
 ## Code
 funIHC.R contains the R implementation, and example.R provides an example of running funIHC
