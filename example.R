@@ -1,3 +1,5 @@
+## Example of running funIHC 
+
 source("funIHC.R")
 
 library(R.matlab)
