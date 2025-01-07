@@ -10,11 +10,12 @@ This repository contains R and MATLAB implementations of funIHC.
 An example demonstrating how to use both the R and MATLAB versions, along with the data required to reproduce the simulations described in our paper, is provided.
 
 ## Data
-The Data.zip file contains the datasets to reproduce one iteration of the simulations descirbed in Section 3.1 and 3.2.
+The Data.zip file contains the datasets required to reproduce one iteration of the simulations descirbed in Section 3.1 and 3.2.
 
 ## Code
-The code to implement funIHC ..................................
-The Rexample.R and MATLABexample.m files demonstrate how to use funIHC
+funIHC.R contains the R implementation, and example.R provides an example of running funIHC
+
+funIHC.m contains the MATLAB implementation, and example.m provides and example of running funIHC
 
 ## Code options
 As described in our paper, we propose three distinct distance metrics for use with
