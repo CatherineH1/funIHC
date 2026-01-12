@@ -3,6 +3,8 @@ The goal of functional clustering is twofold: first, to categorize curves with s
 
 Higgins, C., Carey, M. Addressing class imbalance in functional data clustering. Adv Data Anal Classif (2024). https://doi.org/10.1007/s11634-024-00611-8
 
+funIHC R pakcage now available on CRAN: https://cran.r-project.org/web/packages/funIHC
+
 
 ## Overview
 This repository contains R and MATLAB implementations of funIHC.
